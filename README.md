@@ -1,0 +1,1 @@
+# challenge_atcoder_rust
